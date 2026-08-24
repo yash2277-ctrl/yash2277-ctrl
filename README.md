@@ -81,15 +81,15 @@ Hey, I'm **Kartik Sahu**. I build full-stack web apps and real-time systems — 
 
 ## `~/` the numbers
 
-<img src="https://github-readme-stats.vercel.app/api?username=yash2277-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true" alt="GitHub Stats">
+<img src="https://github-readme-stats-one-blue-29.vercel.app/api?username=yash2277-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true" alt="GitHub Stats">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash2277-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top Languages">
+<img src="https://github-readme-stats-one-blue-29.vercel.app/api/top-langs/?username=yash2277-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" alt="Top Languages">
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=yash2277-ctrl&theme=tokyonight&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=ff6b6b&currStreakLabel=39d353&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yash2277-ctrl&theme=tokyonight&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=ff6b6b&currStreakLabel=39d353&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak">
 
 </div>
 
