@@ -1,74 +1,115 @@
+---
 <div align="center">
 
-<h3><code>kartik@github ~ $ whoami</code></h3>
+<!-- NAME / TAGLINE - animated typing -->
+<a href="https://github.com/yash2277-ctrl">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Kartik+Sahu;Full+Stack+Developer;Building+real+things+that+work;01100011+01101111+01100100+01100101" alt="typing banner">
+</a>
 
-<!-- You'll add your ASCII art images here after providing your photo -->
-<table>
-<tr>
-<td valign="top">
-<!-- Your ASCII portrait will go here -->
-<h1>KARTIK SAHU</h1>
-<h3>yash2277-ctrl</h3>
-</td>
-<td valign="top">
-<!-- Your ASCII wordmark will go here -->
-<pre>
-██╗  ██╗ █████╗ ██████╗ ████████╗██╗██╗  ██╗
-██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝
-█████╔╝ ███████║██████╔╝   ██║   ██║█████╔╝ 
-██╔═██╗ ██╔══██║██╔══██╗   ██║   ██║██╔═██╗ 
-██║  ██╗██║  ██║██║  ██║   ██║   ██║██║  ██╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝
-</pre>
-</td>
-</tr>
-</table>
+<br><br>
 
-<br>
-<br>
+<!-- SOCIALS -->
+<a href="https://main.my-awesome-portfolio-43x.pages.dev">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://github.com/yash2277-ctrl">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:sahu446688@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://linkedin.com/in/yash2277-ctrl">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-<h3><code>kartik@github ~ $ ./contributions.sh</code></h3>
+<br><br>
 
-<!-- Contribution graph - GitHub shows this automatically on profile -->
-<p><b>🔥 4,260+ contributions in the last year</b></p>
+<img src="https://komarev.com/ghpvc/?username=yash2277-ctrl&style=flat&color=39d353&label=profile+views" alt="profile views">
 
-<br>
-<br>
+</div>
 
-<h3><code>kartik@github ~ $ ./links.sh</code></h3>
+---
 
-<p><b>Full Stack Developer · Software Engineer · Tech Enthusiast</b></p>
+## `~/` whoami
 
-<!-- REPLACE THESE WITH YOUR ACTUAL LINKS -->
+```console
+$ cat about.txt
+```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Your_Website-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://your-website.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-Your_Handle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_handle)
-[![GitHub](https://img.shields.io/badge/GitHub-yash2277ctrl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash2277-ctrl)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+Hey, I'm **Kartik Sahu**. I build full-stack web apps and real-time systems — the kind of stuff that actually ships.
 
-<br>
-<br>
-
-<h3><code>kartik@github ~ $ cat skills.txt</code></h3>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 🔭 Currently working on **[Nexus Chat](https://github.com/yash2277-ctrl/nexus-chat-application)** — E2E encrypted real-time messaging
+- 🧠 Also building **[AI Consultancy Platform](https://github.com/yash2277-ctrl/ai-consultancy-platform)** and **[Demand Sense](https://github.com/yash2277-ctrl/demand-sense-platform)**
+- 🌐 Portfolio: **[main.my-awesome-portfolio-43x.pages.dev](https://main.my-awesome-portfolio-43x.pages.dev)**
+- ⚡ Fun fact: I debug faster with music on
 
 <br>
 
-<h3><code>kartik@github ~ $ ./stats.sh</code></h3>
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash2277-ctrl&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2277-ctrl&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+## `~/` toolbox
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,html,css,tailwind,sqlite,mongodb,git,github,vscode,linux,docker&perline=8" alt="tech stack">
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` selected work
+
+| project | what it does | stack |
+|---|---|---|
+| **[Nexus Chat](https://github.com/yash2277-ctrl/nexus-chat-application)** | E2E encrypted real-time messaging — voice calls, stories, groups | `Node.js` `Socket.IO` `React` `SQLite` |
+| **[AI Consultancy Platform](https://github.com/yash2277-ctrl/ai-consultancy-platform)** | AI-powered consultation and document analysis | `Python` `FastAPI` `React` `RAG` |
+| **[Demand Sense](https://github.com/yash2277-ctrl/demand-sense-platform)** | Demand forecasting and analytics dashboard | `Node.js` `React` `Chart.js` |
+| **[Phonix Platform](https://github.com/yash2277-ctrl/phonix-platform)** | Full-stack platform with auth and real-time features | `Node.js` `React` `WebSocket` |
+| **[WaveSync Music](https://github.com/yash2277-ctrl/wavesync-music-platform)** | Music streaming and sync platform | `Node.js` `React` `WebRTC` |
+| **[Bug Finder Platform](https://github.com/yash2277-ctrl/bug-finder-platform)** | Bug tracking and reporting system | `Node.js` `Express` `React` |
+| **[Book Haven Library](https://github.com/yash2277-ctrl/book-haven-library)** | Library management system | `Node.js` `SQLite` `React` |
+| **[Springboard Automation](https://github.com/yash2277-ctrl/springboard-automation)** | Workflow automation tools | `Python` `Node.js` |
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` the numbers
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash2277-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9)
 
 <br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2277-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8)
+
+<br>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yash2277-ctrl&theme=tokyonight&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=ff6b6b&currStreakLabel=39d353)
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yash2277-ctrl/yash2277-ctrl/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash2277-ctrl/yash2277-ctrl/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/yash2277-ctrl/yash2277-ctrl/output/snake.svg" width="100%" alt="contribution snake">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 
 </div>
