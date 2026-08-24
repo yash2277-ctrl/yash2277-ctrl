@@ -1,25 +1,26 @@
----
 <div align="center">
 
-<!-- NAME / TAGLINE - animated typing -->
+<img src="assets/portrait.svg" width="300" alt="Kartik Sahu, rendered as a dot matrix">
+
+<br>
+
 <a href="https://github.com/yash2277-ctrl">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=620&lines=Kartik+Sahu;Full+Stack+Developer;Building+real+things+that+work;01100011+01101111+01100100+01100101" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=580&lines=Kartik+Sahu;Full+Stack+Developer;Building+things+that+ship;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
 <br><br>
 
-<!-- SOCIALS -->
 <a href="https://main.my-awesome-portfolio-43x.pages.dev">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Portfolio">
 </a>
-<a href="https://github.com/yash2277-ctrl">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://linkedin.com/in/kartik-sahu-383393360">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:sahu446688@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://linkedin.com/in/yash2277-ctrl">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://github.com/yash2277-ctrl">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <br><br>
@@ -38,7 +39,7 @@ $ cat about.txt
 
 Hey, I'm **Kartik Sahu**. I build full-stack web apps and real-time systems — the kind of stuff that actually ships.
 
-- 🔭 Currently working on **[Nexus Chat](https://github.com/yash2277-ctrl/nexus-chat-application)** — E2E encrypted real-time messaging
+- 🔭 Currently working on **[Nexus Chat](https://github.com/yash2277-ctrl/nexus-chat-application)** — E2E encrypted real-time messaging with WebRTC calls
 - 🧠 Also building **[AI Consultancy Platform](https://github.com/yash2277-ctrl/ai-consultancy-platform)** and **[Demand Sense](https://github.com/yash2277-ctrl/demand-sense-platform)**
 - 🌐 Portfolio: **[main.my-awesome-portfolio-43x.pages.dev](https://main.my-awesome-portfolio-43x.pages.dev)**
 - ⚡ Fun fact: I debug faster with music on
@@ -63,14 +64,14 @@ Hey, I'm **Kartik Sahu**. I build full-stack web apps and real-time systems — 
 
 | project | what it does | stack |
 |---|---|---|
-| **[Nexus Chat](https://github.com/yash2277-ctrl/nexus-chat-application)** | E2E encrypted real-time messaging — voice calls, stories, groups | `Node.js` `Socket.IO` `React` `SQLite` |
-| **[AI Consultancy Platform](https://github.com/yash2277-ctrl/ai-consultancy-platform)** | AI-powered consultation and document analysis | `Python` `FastAPI` `React` `RAG` |
+| **[Nexus Chat](https://github.com/yash2277-ctrl/nexus-chat-application)** | E2E encrypted real-time messaging — voice/video calls, stories, groups | `Node.js` `Socket.IO` `React` `SQLite` |
+| **[AI Consultancy Platform](https://github.com/yash2277-ctrl/ai-consultancy-platform)** | AI-powered consultation and document analysis with RAG | `Python` `FastAPI` `React` `ChromaDB` |
 | **[Demand Sense](https://github.com/yash2277-ctrl/demand-sense-platform)** | Demand forecasting and analytics dashboard | `Node.js` `React` `Chart.js` |
 | **[Phonix Platform](https://github.com/yash2277-ctrl/phonix-platform)** | Full-stack platform with auth and real-time features | `Node.js` `React` `WebSocket` |
 | **[WaveSync Music](https://github.com/yash2277-ctrl/wavesync-music-platform)** | Music streaming and sync platform | `Node.js` `React` `WebRTC` |
 | **[Bug Finder Platform](https://github.com/yash2277-ctrl/bug-finder-platform)** | Bug tracking and reporting system | `Node.js` `Express` `React` |
 | **[Book Haven Library](https://github.com/yash2277-ctrl/book-haven-library)** | Library management system | `Node.js` `SQLite` `React` |
-| **[Springboard Automation](https://github.com/yash2277-ctrl/springboard-automation)** | Workflow automation tools | `Python` `Node.js` |
+| **[Springboard Automation](https://github.com/yash2277-ctrl/springboard-automation)** | Workflow and task automation tools | `Python` `Node.js` |
 
 </div>
 
@@ -80,15 +81,15 @@ Hey, I'm **Kartik Sahu**. I build full-stack web apps and real-time systems — 
 
 ## `~/` the numbers
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash2277-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api?username=yash2277-ctrl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&count_private=true" alt="GitHub Stats">
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2277-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash2277-ctrl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top Languages">
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yash2277-ctrl&theme=tokyonight&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=ff6b6b&currStreakLabel=39d353)
+<img src="https://streak-stats.demolab.com?user=yash2277-ctrl&theme=tokyonight&hide_border=true&background=0d1117&stroke=39d353&ring=39d353&fire=ff6b6b&currStreakLabel=39d353&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak">
 
 </div>
 
@@ -101,7 +102,7 @@ Hey, I'm **Kartik Sahu**. I build full-stack web apps and real-time systems — 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yash2277-ctrl/yash2277-ctrl/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yash2277-ctrl/yash2277-ctrl/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/yash2277-ctrl/yash2277-ctrl/output/snake.svg" width="100%" alt="contribution snake">
+  <img src="https://raw.githubusercontent.com/yash2277-ctrl/yash2277-ctrl/output/snake-dark.svg" width="100%" alt="contribution snake">
 </picture>
 
 </div>
