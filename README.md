@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/portrait-v3.svg" width="300" alt="Kartik Sahu, rendered as a dot matrix">
+<img src="assets/portrait-v4.svg" width="300" alt="Kartik Sahu, rendered as a dot matrix">
 
 <br>
 
