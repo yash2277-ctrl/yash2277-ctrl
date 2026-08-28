@@ -7,3 +7,4 @@
 - 2026-08-12 16:36 — tweak intro copy.
 - 2026-08-12 17:25 — small profile update.
 - 2026-08-19 19:05 — small profile update.
+- 2026-08-28 16:23 — small profile update.
