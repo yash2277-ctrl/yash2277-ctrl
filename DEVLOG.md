@@ -17,3 +17,4 @@
 - 2026-09-24 12:10 — tweak intro copy.
 - 2026-09-29 11:53 — tweak intro copy.
 - 2026-10-01 14:36 — small profile update.
+- 2026-10-03 18:42 — tweak intro copy.
